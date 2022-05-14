@@ -1,2 +1,2 @@
 Blue bank
-Python script for Analysis and Tableau visualization of loan data from Blue Bank
+Link to Dashboard on Tableau : https://public.tableau.com/app/profile/kewal.roshan.ezra/viz/BlueBank_16524976758130/Dashboard1
